@@ -4,4 +4,5 @@ Mengmei Zhang, Xiao Wang, Chuan Shi, Lingjuan Lyu, Tianchi Yang, Junping Du. Top
 
 # Usage
 1.run Attacker/MiBTack_preprocess.py
+
 2.run Attacker/MiBTack.py
